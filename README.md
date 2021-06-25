@@ -57,7 +57,7 @@ Residuals for both the Seattle Suburb model and Zipcode model were produced and 
 
 The home models were not as successful as the location models when considering a threshold of performance for well-fit models. In the initial model and first iteration, by not utilizing bathroom or grade predictors, the model accounted for approximately 52-53% of the variance in price, respectively. After un-logging the results of RMSE, the initial model had an RMSE of about 257,118 dollars, which is very high and has implications if this were to be used to predict prices for a single home.
 
-For the last iteration, the original bathrooms column was used and grade was added as a predictor. This model had the highest R-squared value of 0.641 and 0.628 on the testing set. RMSE was still high (220,667) but much lower than the other iterations.
+For the last iteration, the original bathrooms column was used and grade was added as a predictor. This model had the highest R-squared value of 0.641 and 0.628 on the testing set. RMSE was still high (215,618) but much lower than the other iterations.
 
 Residuals for the final home model are shown below:
 
