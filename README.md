@@ -86,7 +86,7 @@ Additional steps are outlined to how we can make our models even more successful
 
 ## For More Information
 
-Please review our analysis in each of our Jupyter Notebooks, [Tosca's](./tosca_king_county_housing_analysis.ipynb), [Jonny's](./jonny_king_county_analysis.ipynb), or our [presentation](./).
+Please review our analysis in each of our Jupyter Notebooks, [Tosca's](./tosca_king_county_housing_analysis.ipynb), [Jonny's](./jonny_king_county_analysis.ipynb), or our [presentation](./king_county_housing_analysis_presentation.pdf).
 
 For any additional questions, please contact us at **toscatle@gmail.com** and **jonny.hofmeister@gmail.com**.
 
